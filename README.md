@@ -185,7 +185,7 @@ bash
 cd Vercel_Frontend_Campus_Founders
 npm install
 npm run dev
-# Access at http://localhost:3000
+Access at http://localhost:3000
 
 
 #### 3. Setup Government Schemes API
@@ -193,7 +193,7 @@ bash
 cd Government_Schemes_Extraction_APIs
 pip install -r requirements.txt
 uvicorn main:app --reload
-# API available at http://localhost:8000
+API available at http://localhost:8000
 
 
 #### 4. Setup Investor Verification System
@@ -201,7 +201,7 @@ bash
 cd Streamlit_Investor_Verification_System
 pip install -r requirements.txt
 streamlit run main.py
-# Dashboard at http://localhost:8501
+Dashboard at http://localhost:8501
 
 
 #### 5. Deploy Smart Contracts
