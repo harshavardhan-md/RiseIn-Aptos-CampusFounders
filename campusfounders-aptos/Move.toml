@@ -1,0 +1,14 @@
+[package]
+name = "campus_founders_aptos"
+version = "1.0.0"
+authors = ["CampusFounders"]
+
+[addresses]
+campus_founders = "0x0982e470b961dbb4ac28142a0fc7ebcac1430d2941882aefd7b628902ec5e910"
+
+[dependencies]
+AptosFramework = { git = "https://github.com/aptos-labs/aptos-core.git", subdir = "aptos-move/framework/aptos-framework", rev = "main" }
+AptosStdlib    = { git = "https://github.com/aptos-labs/aptos-core.git", subdir = "aptos-move/framework/aptos-stdlib",    rev = "main" }
+
+[dev-addresses]
+campus_founders = "0x0982e470b961dbb4ac28142a0fc7ebcac1430d2941882aefd7b628902ec5e910"
