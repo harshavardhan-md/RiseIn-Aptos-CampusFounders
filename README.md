@@ -333,7 +333,7 @@ Bridge between established companies and startups:
       <a href="https://www.linkedin.com/in/utsav-gond?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">LinkedIn</a>
     </td>
     <td align="center">
-      <img src="https://media.licdn.com/dms/image/v2/D4D03AQGsFEaeXv0wUg/profile-displayphoto-shrink_400_400/B4DZd5hnyBGYAk-/0/1750090548916?e=1759968000&v=beta&t=jY6pUQRRuLoOIb_-4ScuP5D6Fx0mRPdorW_WTnuQmQ4" width="100px"><br>
+      <img src="https://media.licdn.com/dms/image/v2/D5603AQEt7CcllfnMpQ/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1716437843050?e=1759968000&v=beta&t=bxvKb3HWWOftCQLHy2nM_1-E_cJnRaIjlVI_QjOfXYk" width="100px"><br>
       <b>Shivangi Singh</b><br>
       UI Design Specialist<br>
       <a href="https://www.linkedin.com/in/shivangisingh1612004?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">LinkedIn</a>
