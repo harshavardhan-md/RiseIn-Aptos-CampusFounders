@@ -327,16 +327,16 @@ Bridge between established companies and startups:
       <a href="https://www.linkedin.com/in/harshavardhan-md/">LinkedIn</a>
     </td>
     <td align="center">
-      <img src="https://net-worthy.web.app/assets/team/Jeevan-N.jpg" width="100px"><br>
+      <img src="https://media.licdn.com/dms/image/v2/D4D03AQGsFEaeXv0wUg/profile-displayphoto-shrink_400_400/B4DZd5hnyBGYAk-/0/1750090548916?e=1759968000&v=beta&t=jY6pUQRRuLoOIb_-4ScuP5D6Fx0mRPdorW_WTnuQmQ4" width="100px"><br>
       <b>Utsav Gond</b><br>
       Smart Contract Developer<br>
-      <a href="https://www.linkedin.com/in/jeevan-n-39a5652a3/">LinkedIn</a>
+      <a href="https://www.linkedin.com/in/utsav-gond?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">LinkedIn</a>
     </td>
     <td align="center">
-      <img src="https://net-worthy.web.app/assets/team/Jeevan-N.jpg" width="100px"><br>
+      <img src="https://media.licdn.com/dms/image/v2/D4D03AQGsFEaeXv0wUg/profile-displayphoto-shrink_400_400/B4DZd5hnyBGYAk-/0/1750090548916?e=1759968000&v=beta&t=jY6pUQRRuLoOIb_-4ScuP5D6Fx0mRPdorW_WTnuQmQ4" width="100px"><br>
       <b>Shivangi Singh</b><br>
       UI Design Specialist<br>
-      <a href="https://www.linkedin.com/in/jeevan-n-39a5652a3/">LinkedIn</a>
+      <a href="https://www.linkedin.com/in/shivangisingh1612004?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">LinkedIn</a>
     </td>
     <td align="center">
       <img src="https://net-worthy.web.app/assets/team/Kishore-SR.png" width="100px"><br>
